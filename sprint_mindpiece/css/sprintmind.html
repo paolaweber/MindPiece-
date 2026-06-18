@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/output.css" href="input.css">
+    <title>MindPiece Fala</title>
+</head> 
+
+<body>
+
+  <!-- MOBILE-->
+  <div class="mobile-header">
+    <div class="mobile-logo">
+      <div class="mobile-logo-img">
+        <img src="./imagens/dino.png" alt="Logo">
+      </div>
+      <div>
+        <h1 class="mobile-logo-title">MindPiece</h1>
+        <p class="mobile-logo-sub">Speak</p>
+      </div>
+    </div>
+    <button class="mobile-config-btn">⚙️ Configurações</button>
+  </div>
+
+  <div class="app-grid">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+      <div>
+        <!-- LOGO -->
+        <div class="logo-area">
+          <div class="logo-img-wrap">
+            <img src="./imagens/dino.png" class="logo-img">
+          </div>
+          <div class="logo-text">
+            <h1>MindPiece</h1>
+            <p>Speak</p>
+          </div>
+        </div>
+
+        <!-- MENU -->
+        <nav class="sidebar-nav">
+          <button class="nav-btn nav-btn--active">🏠 Início</button>
+          <button class="nav-btn">💧 Necessidades</button>
+          <button class="nav-btn">😊 Emoções</button>
+          <button class="nav-btn">🍔 Comida</button>
+          <button class="nav-btn">⏰ Rotina</button>
+          <button class="nav-btn">👥 Social</button>
+
+          <!-- BOTÕES INFERIORES -->
+          <div class="sidebar-bottom">
+            <button class="nav-btn nav-btn--bottom">⚙️ Configurações</button>
+            <button class="nav-btn nav-btn--bottom">❓ Ajuda</button>
+          </div>
+        </nav>
+      </div>
+
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main">
+
+      <!-- HEADER -->
+      <header class="page-header">
+        <div>
+          <h2 class="page-title">Olá, Paola! 👋</h2>
+          <p class="page-sub">Monte frases usando pictogramas</p>
+        </div>
+        <div class="header-actions">
+          <button class="icon-btn">👤 Perfil</button>
+          <button class="icon-btn">⚙️ Configurações</button>
+        </div>
+      </header>
+
+      <!-- CATEGORIAS -->
+      <section class="card">
+        <h3 class="section-title">Escolha uma categoria</h3>
+        <div class="categorias-grid">
+
+          <button class="categoria-btn categoria-btn--active">
+            <img src="./imagens/necessidades.png" class="categoria-img">
+            <span>Necessidades</span>
+          </button>
+
+          <button class="categoria-btn">
+            <img src="./imagens/feliz.png" class="categoria-img">
+            <span>Emoções</span>
+          </button>
+
+          <button class="categoria-btn">
+            <img src="./imagens/hamburguer.png" class="categoria-img">
+            <span>Comida</span>
+          </button>
+
+          <button class="categoria-btn">
+            <img src="./imagens/rotina.png" class="categoria-img">
+            <span>Rotina</span>
+          </button>
+
+          <button class="categoria-btn">
+            <img src="./imagens/conversa.png" class="categoria-img">
+            <span>Social</span>
+          </button>
+
+        </div>
+      </section>
+
+      <!-- PICTOGRAMAS -->
+      <section class="card">
+        <div class="section-header">
+          <h3 class="section-title no-margin">Pictogramas - Necessidades</h3>
+          <button class="btn-add">+ Adicionar</button>
+        </div>
+
+        <div class="pictogramas-grid">
+
+          <div class="picto-card">
+            <img src="./imagens/beber-agua.png" class="picto-img">
+            <p>Água</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/banheiro.png" class="picto-img">
+            <p>Banheiro</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/dormir.png" class="picto-img">
+            <p>Dormir</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/dor.png" class="picto-img">
+            <p>Dor</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/silencio.png" class="picto-img">
+            <p>Silêncio</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/casa.png" class="picto-img">
+            <p>Casa</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/roupas.png" class="picto-img">
+            <p>Roupa</p>
+          </div>
+
+          <div class="picto-card">
+            <img src="./imagens/remedio.png" class="picto-img">
+            <p>Remédio</p>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- FRASE -->
+      <section class="card card--rounded-xl">
+        <h3 class="section-title">Vamos montar uma frase</h3>
+
+        <div class="frase-area">
+          <div class="frase-tag">💧 Água</div>
+          <span class="frase-sep">+</span>
+          <div class="frase-tag">🙏 Por favor</div>
+          <span class="frase-sep">+</span>
+          <div class="frase-tag">😓 Estou</div>
+          <span class="frase-sep">+</span>
+          <div class="frase-tag">🥵 Com sede</div>
+        </div>
+
+        <div class="frase-controles">
+          <div class="frase-controles-left">
+            <button class="btn-falar">🔊 Falar</button>
+            <button class="btn-ouvir">🔁 Ouvir novamente</button>
+          </div>
+          <div class="frase-controles-right">
+            <button class="btn-limpar">🧹 Limpar tudo</button>
+            <button class="btn-desfazer">↩️ Desfazer</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- FOOTER -->
+      <footer class="page-footer">
+        <div class="footer-left">
+          <div class="footer-icon">
+            <img src="./imagens/quebracabeca.png" class="footer-icon-img">
+          </div>
+          <div>
+            <h4 class="footer-title">MindPiece Fala</h4>
+            <p class="footer-sub">Ajuda você a se expressar do seu jeito.</p>
+          </div>
+        </div>
+        <p class="footer-slogan">Cada peça encaixa a sua ideia!</p>
+      </footer>
+
+    </main>
+
+  </div>
+
+  <!-- MOBILE: barra de navegação inferior-->
+  <nav class="mobile-nav-bar">
+    <button class="mobile-nav-item mobile-nav-item--active">
+      <span class="mobile-nav-icon">🏠</span>
+      <span>Início</span>
+    </button>
+    <button class="mobile-nav-item">
+      <span class="mobile-nav-icon">💧</span>
+      <span>Necessidades</span>
+    </button>
+    <button class="mobile-nav-item">
+      <span class="mobile-nav-icon">😊</span>
+      <span>Emoções</span>
+    </button>
+    <button class="mobile-nav-item">
+      <span class="mobile-nav-icon">💬</span>
+      <span>Frase</span>
+    </button>
+    <button class="mobile-nav-item">
+      <span class="mobile-nav-icon">☰</span>
+      <span>Mais</span>
+    </button>
+  </nav>
+
+</body>
+</html>
