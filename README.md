@@ -48,11 +48,7 @@ voltada à comunicação alternativa para autistas e pessoas não-verbais no amb
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+> Link do deploy da aplicação. Exemplo com netlify: Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
