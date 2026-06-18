@@ -1,4 +1,4 @@
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>MindPiece</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -11,7 +11,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning: (Em desenvolvimento)
 
 ### Tópicos 
 
@@ -32,7 +32,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  O presente projeto é fundamentado na ODS 4. Com intuíto de desenvolver uma aplicação web acessível e inclusiva 
+voltada à comunicação alternativa para autistas e pessoas não-verbais no ambiente escolar e familiar. 
 </p>
 
 ## Funcionalidades
