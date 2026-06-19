@@ -31,36 +31,36 @@ voltada à comunicação alternativa para autistas e pessoas não-verbais no amb
 ## Funcionalidades
 
 
-:heavy_check_mark: Funcionalidade 1  
+Funcionalidade 1  
 <p> </p>
 <p>🟣 Comunicação por Pictogramas
 Permite que o usuário se comunique através da seleção de pictogramas visuais, facilitando a expressão de necessidades, desejos e sentimentos.</p>
 
-:heavy_check_mark: Funcionalidade 2 
+Funcionalidade 2 
 <p></p>
 <p>🟪 Categorias Organizadas
 Os pictogramas são divididos em categorias como Necessidades, Emoções, Comida, Rotina e Social, tornando a navegação mais simples e intuitiva.</p>
 
-:heavy_check_mark: Funcionalidade 3  
+Funcionalidade 3  
 <p>💜 Construção de Frases
 O usuário pode combinar diferentes pictogramas para formar frases completas, ampliando suas possibilidades de comunicação.</p>
 
-:heavy_check_mark: Funcionalidade 4  
+Funcionalidade 4  
 <p></p>
 <p>🎙️ Reprodução de Mensagens
 As frases montadas podem ser reproduzidas por áudio, auxiliando na comunicação com familiares, amigos e cuidadores.</p>
 
-:heavy_check_mark: Funcionalidade 5
+Funcionalidade 5
 <p></p>
 <p>🔮 Interface Acessível
 Desenvolvida com foco em acessibilidade, utilizando modo escuro, contraste adequado e elementos visuais de fácil identificação.<p>
 
-:heavy_check_mark: Funcionalidade 6
+Funcionalidade 6
 <p></p>
 <p>🧩 Pictogramas Ilustrativos
 Utilização de imagens e símbolos que facilitam a compreensão e reduzem barreiras na comunicação. <p>
 
-:heavy_check_mark: Funcionalidade 7
+Funcionalidade 7
 <p></p>
 <p>⚙️ Configurações Personalizadas
 Área destinada a ajustes e futuras personalizações para atender às necessidades específicas de cada usuário.
@@ -68,7 +68,7 @@ Utilização de imagens e símbolos que facilitam a compreensão e reduzem barre
 🆘 Sistema de Ajuda
 Disponibiliza orientações para facilitar o aprendizado e a utilização do aplicativo. <p>
 
-:heavy_check_mark: Funcionalidade 8
+Funcionalidade 8
 <p></p>
 <p>💟 Inclusão e Autonomia
 Promove a independência e a inclusão social de pessoas autistas e não verbais por meio da tecnologia assistiva.
