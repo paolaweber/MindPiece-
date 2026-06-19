@@ -175,16 +175,18 @@ DESENVOLVEDORA:
   <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
   <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
   <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
+
+(https://github.com/paolaweber) |
+
 </p>
  
-</p>
 
-<p>Banco de Pictogramas utilizado</p>
+<p>Banco de Pictogramas utilizado
 <a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
     <img src="icone.png" alt="Banco de Pictogramas Flaticon">
 </a>
+</p>
 
-(https://github.com/paolaweber) |
 | :---: | :---: | :---: 
 
 ## Licença 
