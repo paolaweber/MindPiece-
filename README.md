@@ -138,8 +138,6 @@ Atualmente o projeto não possui testes automatizados implementados.
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
 :memo: Tarefa 1
 
 <p>Implementação de node.JS</p>
@@ -162,8 +160,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 <p align="center">
   <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
-  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
-  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+ 
 </p>
 
 <p>Banco de Pictogramas utilizado</p>
