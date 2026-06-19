@@ -19,11 +19,7 @@
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
 ... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
@@ -34,13 +30,55 @@ voltada à comunicação alternativa para autistas e pessoas não-verbais no amb
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Funcionalidade 1  
+<p> </p>
+<p>🟣 Comunicação por Pictogramas
+Permite que o usuário se comunique através da seleção de pictogramas visuais, facilitando a expressão de necessidades, desejos e sentimentos.</p>
+
+:heavy_check_mark: Funcionalidade 2 
+<p></p>
+<p>🟪 Categorias Organizadas
+Os pictogramas são divididos em categorias como Necessidades, Emoções, Comida, Rotina e Social, tornando a navegação mais simples e intuitiva.</p>
 
 :heavy_check_mark: Funcionalidade 3  
+<p>💜 Construção de Frases
+O usuário pode combinar diferentes pictogramas para formar frases completas, ampliando suas possibilidades de comunicação.</p>
 
 :heavy_check_mark: Funcionalidade 4  
+<p></p>
+<p>🎙️ Reprodução de Mensagens
+As frases montadas podem ser reproduzidas por áudio, auxiliando na comunicação com familiares, amigos e cuidadores.</p>
+
+:heavy_check_mark: Funcionalidade 5
+<p></p>
+<p>🔮 Interface Acessível
+Desenvolvida com foco em acessibilidade, utilizando modo escuro, contraste adequado e elementos visuais de fácil identificação.<p>
+
+:heavy_check_mark: Funcionalidade 6
+<p></p>
+<p>🧩 Pictogramas Ilustrativos
+Utilização de imagens e símbolos que facilitam a compreensão e reduzem barreiras na comunicação. <p>
+
+:heavy_check_mark: Funcionalidade 7
+<p></p>
+<p>⚙️ Configurações Personalizadas
+Área destinada a ajustes e futuras personalizações para atender às necessidades específicas de cada usuário.
+
+🆘 Sistema de Ajuda
+Disponibiliza orientações para facilitar o aprendizado e a utilização do aplicativo. <p>
+
+:heavy_check_mark: Funcionalidade 8
+<p></p>
+<p>💟 Inclusão e Autonomia
+Promove a independência e a inclusão social de pessoas autistas e não verbais por meio da tecnologia assistiva.
+
+🦖💜 MindPiece
+Transformando pictogramas em voz, ideias em frases e comunicação em inclusão.</p>
+
+
+
+
 
 ## Layout ou Deploy da Aplicação :dash:
 
@@ -80,28 +118,6 @@ Coloque um passo a passo para executar os testes
 $ npm test, rspec, etc 
 ```
 
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-## JSON :floppy_disk:
-
-### Usuários: 
-
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
-
-... 
-
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
@@ -129,7 +145,9 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
 <p>Banco de Pictogramas utilizado</p>
-<link rel="https://www.flaticon.com/br/icones-gratis/pictograma"> 
+<a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
+    <img src="icone.png" alt="Ícone">
+</a>
 
 (https://github.com/paolaweber) |
 | :---: | :---: | :---: 
