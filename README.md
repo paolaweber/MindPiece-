@@ -125,15 +125,17 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 :memo: Tarefa 3 
 
-## Desenvolvedores/Contribuintes :octocat:
+## Desenvolvedora:
 
-Liste o time responsável pelo desenvolvimento do projeto
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
+<p>Banco de Pictogramas utilizado</p>
+<link rel="https://www.flaticon.com/br/icones-gratis/pictograma"> 
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
+(https://github.com/paolaweber) |
 | :---: | :---: | :---: 
 
 ## Licença 
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2026 - MindPiece
