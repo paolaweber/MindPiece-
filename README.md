@@ -135,15 +135,24 @@ Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento d
 
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
-:memo: Tarefa 1 
+:memo: Tarefa 1
+
+<p>Implementação de node.JS</p>
 
 :memo: Tarefa 2 
 
+<p>Integração de API de síntese de voz </p>
+
 :memo: Tarefa 3 
+
+<p>Incluir Banco de dados</p>
 
 ## Desenvolvedora:
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
+
 <p>Banco de Pictogramas utilizado</p>
 <a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
     <img src="icone.png" alt="Ícone">
