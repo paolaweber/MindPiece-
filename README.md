@@ -158,14 +158,16 @@ Atualmente o projeto não possui testes automatizados implementados.
 
 ## Desenvolvedora:
 
-<p align="center">
+
   <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+    <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+
  
 </p>
 
 <p>Banco de Pictogramas utilizado</p>
 <a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
-    <img src="icone.png" alt="Ícone">
+    <img src="icone.png" alt="Banco de Pictogramas Flaticon">
 </a>
 
 (https://github.com/paolaweber) |
