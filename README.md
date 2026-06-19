@@ -159,8 +159,13 @@ Atualmente o projeto não possui testes automatizados implementados.
 ## Desenvolvedora:
 
 
-  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
-    <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=PURPLE&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=PURPLE&style=for-the-badge"/>
+  
+</p>
 
  
 </p>
