@@ -1,9 +1,13 @@
 <h1>MindPiece</h1> 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
-  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
-  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=PURPLE&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=PURPLE&style=for-the-badge"/>
+</p>
+
+
 </p>
 
 > Status do Projeto: :heavy_check_mark: :warning: (Em desenvolvimento)
@@ -166,6 +170,12 @@ Atualmente o projeto não possui testes automatizados implementados.
   
 </p>
 
+DESENVOLVEDORA:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
+  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
+  <img src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" width="250">
+</p>
  
 </p>
 
