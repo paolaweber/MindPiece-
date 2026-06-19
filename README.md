@@ -47,7 +47,7 @@ O usuário pode combinar diferentes pictogramas para formar frases completas, am
 
 🔹 FUNCIONALIDADE 4  
 <p></p>
-<p>🎙️ Reprodução de Mensagens
+<p> Reprodução de Mensagens
 As frases montadas podem ser reproduzidas por áudio, auxiliando na comunicação com familiares, amigos e cuidadores.</p>
 
 🔹 FUNCIONALIDADE 5
