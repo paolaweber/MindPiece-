@@ -96,27 +96,24 @@ Transformando pictogramas em voz, ideias em frases e comunicação em inclusão.
 
 ...
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
+Requisitos de execução para quando o projeto estiver completo.
 
-## Como rodar a aplicação :arrow_forward:
+🔹 Node.js (versão 18 ou superior)
+Responsável por executar o servidor da aplicação.
 
-No terminal, clone o projeto: 
+🔹 NPM (instalado junto com o Node.js)
+Gerenciador de dependências utilizado pelo projeto.
 
-```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
-```
+🔹 Navegador Web moderno
 
-... 
+Google Chrome
+Microsoft Edge
+Mozilla Firefox
+Opera
 
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
+## Como rodar os testes 🧪
 
-## Como rodar os testes
-
-Coloque um passo a passo para executar os testes
-
-```
-$ npm test, rspec, etc 
-```
+Atualmente o projeto não possui testes automatizados implementados.
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
@@ -149,9 +146,11 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 ## Desenvolvedora:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a7c755c-b72a-497c-9f50-ae88cab1f8bc" />
+<p align="center">
+  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+  <img src="<https://github.com/user-attachments/assets/0c7da0a5-1788-43cb-a3b8-efdd52992583" width="200">
+</p>
 
 <p>Banco de Pictogramas utilizado</p>
 <a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
