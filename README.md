@@ -31,36 +31,36 @@ voltada à comunicação alternativa para autistas e pessoas não-verbais no amb
 ## Funcionalidades
 
 
-Funcionalidade 1  
+FUNCIONALIDADE 1  
 <p> </p>
 <p>🟣 Comunicação por Pictogramas
 Permite que o usuário se comunique através da seleção de pictogramas visuais, facilitando a expressão de necessidades, desejos e sentimentos.</p>
 
-Funcionalidade 2 
+FUNCIONALIDADE 2 
 <p></p>
 <p>🟪 Categorias Organizadas
 Os pictogramas são divididos em categorias como Necessidades, Emoções, Comida, Rotina e Social, tornando a navegação mais simples e intuitiva.</p>
 
-Funcionalidade 3  
+FUNCIONALIDADE 3  
 <p>💜 Construção de Frases
 O usuário pode combinar diferentes pictogramas para formar frases completas, ampliando suas possibilidades de comunicação.</p>
 
-Funcionalidade 4  
+FUNCIONALIDADE 4  
 <p></p>
 <p>🎙️ Reprodução de Mensagens
 As frases montadas podem ser reproduzidas por áudio, auxiliando na comunicação com familiares, amigos e cuidadores.</p>
 
-Funcionalidade 5
+FUNCIONALIDADE 5
 <p></p>
 <p>🔮 Interface Acessível
 Desenvolvida com foco em acessibilidade, utilizando modo escuro, contraste adequado e elementos visuais de fácil identificação.<p>
 
-Funcionalidade 6
+FUNCIONALIDADE 6
 <p></p>
 <p>🧩 Pictogramas Ilustrativos
 Utilização de imagens e símbolos que facilitam a compreensão e reduzem barreiras na comunicação. <p>
 
-Funcionalidade 7
+FUNCIONALIDADE 7
 <p></p>
 <p>⚙️ Configurações Personalizadas
 Área destinada a ajustes e futuras personalizações para atender às necessidades específicas de cada usuário.
@@ -68,7 +68,7 @@ Funcionalidade 7
 🆘 Sistema de Ajuda
 Disponibiliza orientações para facilitar o aprendizado e a utilização do aplicativo. <p>
 
-Funcionalidade 8
+FUNCIONALIDADE 8
 <p></p>
 <p>💟 Inclusão e Autonomia
 Promove a independência e a inclusão social de pessoas autistas e não verbais por meio da tecnologia assistiva.
@@ -92,41 +92,49 @@ Transformando pictogramas em voz, ideias em frases e comunicação em inclusão.
 
 ## Pré-requisitos
 
-:warning: [Node](https://nodejs.org/en/download/)
-
-...
-
 Requisitos de execução para quando o projeto estiver completo.
 
-🔹 Node.js (versão 18 ou superior)
-Responsável por executar o servidor da aplicação.
+🟢 Node.js (inclui o NPM)
+Responsável por executar o servidor da aplicação e gerenciar as dependências do projeto.
 
-🔹 NPM (instalado junto com o Node.js)
-Gerenciador de dependências utilizado pelo projeto.
+🔗 https://nodejs.org/
 
-🔹 Navegador Web moderno
+### 🌐 Navegador Web
+Utilize um navegador atualizado para acessar a aplicação:
 
-Google Chrome
-Microsoft Edge
-Mozilla Firefox
-Opera
+🔗 Google Chrome: https://www.google.com/chrome/
+
+🔗 Microsoft Edge: https://www.microsoft.com/edge
+
+🔗 Mozilla Firefox: https://www.mozilla.org/firefox/
+
 
 ## Como rodar os testes 🧪
 
 Atualmente o projeto não possui testes automatizados implementados.
 
+<p> </p>
+
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+### 💜 Frontend
 
-...
+- HTML  
+  🔗 https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
+- CSS  
+  🔗 https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
-## Resolvendo Problemas :exclamation:
+- JavaScript  
+  🔗 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+- React  
+  🔗 https://react.dev/
+
+- Tailwind CSS  
+  🔗 https://tailwindcss.com/docs/installation
+
+<p>Próximas Tecnologias a serem integradas </p>
 
 ## Tarefas em aberto
 
@@ -135,14 +143,20 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 :memo: Tarefa 1
 
 <p>Implementação de node.JS</p>
+  🔗 https://nodejs.org/
 
 :memo: Tarefa 2 
 
 <p>Integração de API de síntese de voz </p>
+ 🔗 https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Speech_API
+
 
 :memo: Tarefa 3 
 
 <p>Incluir Banco de dados</p>
+
+  🔗 https://www.mongodb.com/try/download/community
+
 
 ## Desenvolvedora:
 
