@@ -45,6 +45,8 @@ voltada à comunicação alternativa para autistas e pessoas não-verbais no amb
 ## Layout ou Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+> <img width="1361" height="641" alt="image" src="https://github.com/user-attachments/assets/d33c537b-9742-4d94-9ccf-d581888b7979" />
+
 
 ## Pré-requisitos
 
