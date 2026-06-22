@@ -122,37 +122,42 @@ Atualmente o projeto não possui testes automatizados implementados.
 
 ### Frontend
 
-- HTML  
+- HTML
+ 
    https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
-- CSS  
+- CSS
+  
    https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
-- JavaScript  
+- JavaScript
+ 
    https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
-- React  
+- React
+  
    https://react.dev/
 
-- Tailwind CSS  
+- Tailwind CSS
+  
    https://tailwindcss.com/docs/installation
 
 <p>Próximas Tecnologias a serem integradas </p>
 
 ## Tarefas em aberto
 
-:memo: Tarefa 1
+Tarefa 1
 
 <p>Implementação de node.JS</p>
    https://nodejs.org/
 
-:memo: Tarefa 2 
+Tarefa 2 
 
 <p>Integração de API de síntese de voz </p>
   https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Speech_API
 
 
-:memo: Tarefa 3 
+Tarefa 3 
 
 <p>Incluir Banco de dados</p>
 
@@ -173,6 +178,7 @@ Atualmente o projeto não possui testes automatizados implementados.
  
 
 <p>Banco de Pictogramas utilizado</p>
+
 <a href="https://www.flaticon.com/br/icones-gratis/pictograma" target="_blank">
     <img src="icone.png" alt="Banco de Pictogramas Flaticon">
 </a>
