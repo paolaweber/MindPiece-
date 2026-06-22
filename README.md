@@ -100,16 +100,16 @@ Requisitos de execução para quando o projeto estiver completo.
 Node.js (inclui o NPM)
 Responsável por executar o servidor da aplicação e gerenciar as dependências do projeto.
 
-🔗 https://nodejs.org/
+ https://nodejs.org/
 
 ### Navegador Web
 Utilize um navegador atualizado para acessar a aplicação:
 
-🔗 Google Chrome: https://www.google.com/chrome/
+ Google Chrome: https://www.google.com/chrome/
 
-🔗 Microsoft Edge: https://www.microsoft.com/edge
+ Microsoft Edge: https://www.microsoft.com/edge
 
-🔗 Mozilla Firefox: https://www.mozilla.org/firefox/
+ Mozilla Firefox: https://www.mozilla.org/firefox/
 
 
 ## Como rodar os testes 
