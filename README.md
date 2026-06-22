@@ -97,12 +97,12 @@ Transformando pictogramas em voz, ideias em frases e comunicação em inclusão.
 
 Requisitos de execução para quando o projeto estiver completo.
 
-🟢 Node.js (inclui o NPM)
+Node.js (inclui o NPM)
 Responsável por executar o servidor da aplicação e gerenciar as dependências do projeto.
 
 🔗 https://nodejs.org/
 
-### 🌐 Navegador Web
+### Navegador Web
 Utilize um navegador atualizado para acessar a aplicação:
 
 🔗 Google Chrome: https://www.google.com/chrome/
@@ -112,7 +112,7 @@ Utilize um navegador atualizado para acessar a aplicação:
 🔗 Mozilla Firefox: https://www.mozilla.org/firefox/
 
 
-## Como rodar os testes 🧪
+## Como rodar os testes 
 
 Atualmente o projeto não possui testes automatizados implementados.
 
@@ -120,22 +120,22 @@ Atualmente o projeto não possui testes automatizados implementados.
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-### 💜 Frontend
+### Frontend
 
 - HTML  
-  🔗 https://developer.mozilla.org/pt-BR/docs/Web/HTML
+   https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 - CSS  
-  🔗 https://developer.mozilla.org/pt-BR/docs/Web/CSS
+   https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
 - JavaScript  
-  🔗 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+   https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 - React  
-  🔗 https://react.dev/
+   https://react.dev/
 
 - Tailwind CSS  
-  🔗 https://tailwindcss.com/docs/installation
+   https://tailwindcss.com/docs/installation
 
 <p>Próximas Tecnologias a serem integradas </p>
 
@@ -144,19 +144,19 @@ Atualmente o projeto não possui testes automatizados implementados.
 :memo: Tarefa 1
 
 <p>Implementação de node.JS</p>
-  🔗 https://nodejs.org/
+   https://nodejs.org/
 
 :memo: Tarefa 2 
 
 <p>Integração de API de síntese de voz </p>
- 🔗 https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Speech_API
+  https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Speech_API
 
 
 :memo: Tarefa 3 
 
 <p>Incluir Banco de dados</p>
 
-  🔗 https://www.mongodb.com/try/download/community
+   https://www.mongodb.com/try/download/community
 
 
 ## Desenvolvedora:
