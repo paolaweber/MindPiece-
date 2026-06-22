@@ -148,8 +148,6 @@ Atualmente o projeto não possui testes automatizados implementados.
    https://tailwindcss.com/docs/installation
   
 
-<p>Próximas Tecnologias a serem integradas </p>
-
 ## Tarefas em aberto
 
 Tarefa 1
