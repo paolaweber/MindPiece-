@@ -83,7 +83,7 @@ Transformando pictogramas em voz, ideias em frases e comunicação em inclusão.
 
 
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout ou Deploy da Aplicação:
 
 <DEPLOY DA IMAGEM>
 <p> </p>
@@ -100,7 +100,8 @@ Requisitos de execução para quando o projeto estiver completo.
 Node.js (inclui o NPM)
 Responsável por executar o servidor da aplicação e gerenciar as dependências do projeto.
 
- https://nodejs.org/
+https://nodejs.org/
+
 
 ### Navegador Web
 Utilize um navegador atualizado para acessar a aplicação:
@@ -126,21 +127,26 @@ Atualmente o projeto não possui testes automatizados implementados.
  
    https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
+
 - CSS
   
    https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
 
 - JavaScript
  
    https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
+
 - React
   
    https://react.dev/
 
+
 - Tailwind CSS
   
    https://tailwindcss.com/docs/installation
+  
 
 <p>Próximas Tecnologias a serem integradas </p>
 
@@ -149,11 +155,13 @@ Atualmente o projeto não possui testes automatizados implementados.
 Tarefa 1
 
 <p>Implementação de node.JS</p>
+
    https://nodejs.org/
 
 Tarefa 2 
 
 <p>Integração de API de síntese de voz </p>
+
   https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Speech_API
 
 
